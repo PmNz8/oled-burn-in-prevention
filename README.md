@@ -1,3 +1,4 @@
 What it does (accelerated view):
 
-[![IMAGE](https://github.com/PmNz8/oled-burn-in-prevention/blob/main/Zrzut%20ekranu%202024-05-17%20134330.png)](https://github.com/PmNz8/oled-burn-in-prevention/blob/main/explorer.mp4)
+https://github.com/PmNz8/oled-burn-in-prevention/assets/86913474/812691b0-1e45-463c-8ec5-fd27d88c394e
+
